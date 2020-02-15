@@ -7,7 +7,7 @@ This is a basic flashcard app that asks a question and will reveal an answer aft
 
 ### App Walk-though
 
-<img src="file:///Users/xcodeuser/Documents/Jillian's%20folder/CodePath/Flashcards/animated.GIF" width=200><br>
+<img src="animated.GIF" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
