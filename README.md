@@ -6,7 +6,7 @@
 ### App Description
 This is a basic flashcard app.
 
-### App Walk-though
+### App Walk-through
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
@@ -29,7 +29,7 @@ This is a basic flashcard app.
 ### App Description
 This is a basic flashcard app that asks a question and will reveal an answer after tapping the question label. You can also guess the answer by using three buttons. If you tap the wrong answer, the button will disappear. If you tap the correct answer, the answer will be revealed.
 
-### App Walk-though
+### App Walk-through
 
 <img src="file:///Users/xcodeuser/Documents/Jillian's%20folder/CodePath/Flashcards/animated.GIF" width=200><br>
 
