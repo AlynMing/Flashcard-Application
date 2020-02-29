@@ -4,11 +4,11 @@
 ## Lab 2
 
 ### App Description
-This is a basic flashcard app.
+This is a basic flashcard app. Please use the .zip file to access the most recent version. (I was running into errors and did not have time to find out what was wrong)
 
 ### App Walk-through
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="image0.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
@@ -31,7 +31,7 @@ This is a basic flashcard app that asks a question and will reveal an answer aft
 
 ### App Walk-through
 
-<img src="file:///Users/xcodeuser/Documents/Jillian's%20folder/CodePath/Flashcards/animated.GIF" width=200><br>
+<img src="animated.GIF" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
