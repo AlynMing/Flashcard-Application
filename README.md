@@ -4,7 +4,7 @@
 ## Lab 2
 
 ### App Description
-This is a basic flashcard app. Please use the .zip file to access the most recent version. (I was running into errors and did not have time to find out what was wrong)
+This is a basic flashcard app. Please use the .zip file to access the most recent version.
 
 ### App Walk-through
 
