@@ -65,7 +65,13 @@ class CreationViewController: UIViewController {
             
         }else{
             
-            flashcardsController.updateFlashcard(question: questionText!, answer1: answerOneText!, answer2: answerTwoText!, answer3: answerThreeText!)
+            // See if it's existing
+            var isExisting = false
+            if initialQuestion != nil {
+                isExisting = true
+            }
+            
+            flashcardsController.updateFlashcard(question: questionText!, answer1: answerOneText!, answer2: answerTwoText!, answer3: answerThreeText!, isExisting: isExisting)
             
             dismiss(animated: true)
         }
