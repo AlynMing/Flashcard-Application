@@ -1,5 +1,24 @@
 ## Jillian's Flashcard App
 
+## Lab 3
+
+### App Description
+This is a basic flashcard app. Please use the .zip file to access the most recent version.
+
+### App Walk-though
+
+<img src="lab3.GIF" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [x] User can edit existing flashcard
+- [x] User can store multiple choice questions
+
+
 
 ## Lab 2
 
@@ -19,8 +38,6 @@ This is a basic flashcard app. Please use the .zip file to access the most recen
 - [x] User gets an error if they try to create a new flashcard with no question or answer
 - [x] User can edit existing flashcard
 - [x] User can add multiple choice answers in the creation screen
-
-
 
 
 
